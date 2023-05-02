@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(156, 200, 37);
+
+}
+#mouseOver
+{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 5px 15px 10px;
+    font-size: 20px;
+
+
+
+}
